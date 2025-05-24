@@ -229,9 +229,3 @@ Organized for efficient collaboration across teams.
 
 
 Let’s build something amazing!
-
-Would you like me to:
-- *Generate this folder structure* with all placeholder files?  
-- *Prepare a GitHub repository template* for you?  
-
-Let me know!
